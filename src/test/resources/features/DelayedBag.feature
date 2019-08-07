@@ -1,7 +1,7 @@
 Feature: Create delayed bag
   I want to create AHL with easyJet airline
 
-  @SanityTest @RegressionTest
+  @TID4001REV0.3.0
   Scenario: Delayed bag creation
     Given I navigate to easyJet URL and accept the cookies
     When I Click on Report a delayed Bag Image and click on continue button in popup

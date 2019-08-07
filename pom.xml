@@ -140,8 +140,7 @@
 				<version>${maven-surefire-plugin.version}</version>
 				<configuration>
 					<suiteXmlFiles>
-
-						<!-- <suiteXmlFile>testng.xml</suiteXmlFile> -->
+						<suiteXmlFile>testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
