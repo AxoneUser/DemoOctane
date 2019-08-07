@@ -100,9 +100,10 @@ public class CreateDelayedBag {
 		this.testBase.extentScenario.log(Status.INFO, "Navigating to the flight page");
 		LOG.info("Navigating to the flight page");
 		Map<String, String> mData = dataTable.asMap(String.class, String.class);
-		Thread.sleep(4000);
+		Thread.sleep(10000);
 		flightPage = new FlightPage(this.testBase.driver);
 		this.testBase.extentScenario.log(Status.INFO, "Entering the flight information");
+		Thread.sleep(4000);
 		flightPage.clickAddFlightsLink().clickSingleFlight().enterFlightNumber(mData.get("flightNumber"))
 				.clickAddFlights();
 		Thread.sleep(4000);
