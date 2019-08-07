@@ -32,7 +32,7 @@ public class Hooks {
 		ChromeOptions chromeOptions = new ChromeOptions();
 		chromeOptions.addArguments("--headless");
 		WebDriverManager.chromedriver().setup();
-		testBase.driver = new ChromeDriver();
+		testBase.driver = new ChromeDriver(chromeOptions);
 	}
 
 	@After
