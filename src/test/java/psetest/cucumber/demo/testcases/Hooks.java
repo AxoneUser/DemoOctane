@@ -1,6 +1,7 @@
 package psetest.cucumber.demo.testcases;
 
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 import com.aventstack.extentreports.gherkin.model.Feature;
 
@@ -28,6 +29,8 @@ public class Hooks {
 		this.testBase.extentFeature = reportManager.extentReports.createTest(Feature.class,
 				scenario.getName() + scenario.getClass().toGenericString());
 		testBase.extentScenario = testBase.extentFeature.createNode(scenario.getName());
+		ChromeOptions chromeOptions = new ChromeOptions();
+		chromeOptions.addArguments("--headless");
 		WebDriverManager.chromedriver().setup();
 		testBase.driver = new ChromeDriver();
 	}
