@@ -1,60 +1,20 @@
-INFO  [2019-08-07T15:21:25,241][main] [:] I navigate to easyJet URL and accept the cookies
-INFO  [2019-08-07T15:21:25,325][main] [:] Navigating to the URL :https://mybag-qa.aero/baggage/#/easyjet/en-gb/main-menu
-INFO  [2019-08-07T15:21:38,008][main] [:] Clicking Got IT continue
-INFO  [2019-08-07T15:21:38,071][main] [:] Clicking On Delayed Bag Image
-INFO  [2019-08-07T15:21:38,118][main] [:] Clicking On Continue Button
-INFO  [2019-08-07T15:21:39,004][main] [:] Navigating to the flight page
-INFO  [2019-08-07T15:21:48,312][main] [:] Click Continue button
-INFO  [2019-08-07T15:21:52,382][main] [:] Navigating to the baggage details page
-INFO  [2019-08-07T15:21:52,384][main] [:] Clicking the bag information on the bag details page
-INFO  [2019-08-07T15:22:11,032][main] [:] Click Continue Bag Button
-INFO  [2019-08-07T15:22:15,192][main] [:] Entering passenger details information
-INFO  [2019-08-07T15:22:15,846][main] [:] Click Home Address Link
-INFO  [2019-08-07T15:22:21,119][main] [:] Entering the home address details in the popup
-INFO  [2019-08-07T15:22:27,708][main] [:] Clicking Check Bits 1 Button
-INFO  [2019-08-07T15:22:27,753][main] [:] Clicking Check Bits 1 Button
-INFO  [2019-08-07T15:22:27,798][main] [:] Clicking Check Bits 1 Button
-INFO  [2019-08-07T15:22:31,890][main] [:] Clicking Nothing to declare Button
-INFO  [2019-08-07T15:22:32,006][main] [:] Clicking Submit Button
-INFO  [2019-08-07T15:22:38,049][main] [:] Printing file reference number BSLU216537
-INFO  [2019-08-07T15:22:38,061][main] [:] Closing the browser
-INFO  [2019-08-07T20:49:37,263][main] [:] I navigate to easyJet URL and accept the cookies
-INFO  [2019-08-07T20:49:37,317][main] [:] Navigating to the URL :https://mybag-qa.aero/baggage/#/easyjet/en-gb/main-menu
-INFO  [2019-08-07T20:49:39,004][main] [:] Clicking Got IT continue
-INFO  [2019-08-07T20:49:39,047][main] [:] Clicking On Delayed Bag Image
-INFO  [2019-08-07T20:49:42,527][main] [:] Clicking On Continue Button
-INFO  [2019-08-07T20:49:43,419][main] [:] Navigating to the flight page
-INFO  [2019-08-07T20:49:52,086][main] [:] Click Continue button
-INFO  [2019-08-07T20:49:56,159][main] [:] Navigating to the baggage details page
-INFO  [2019-08-07T20:49:56,159][main] [:] Clicking the bag information on the bag details page
-INFO  [2019-08-07T20:50:13,193][main] [:] Click Continue Bag Button
-INFO  [2019-08-07T20:50:17,299][main] [:] Entering passenger details information
-INFO  [2019-08-07T20:50:17,877][main] [:] Click Home Address Link
-INFO  [2019-08-07T20:50:22,452][main] [:] Entering the home address details in the popup
-INFO  [2019-08-07T20:50:28,976][main] [:] Clicking Check Bits 1 Button
-INFO  [2019-08-07T20:50:29,023][main] [:] Clicking Check Bits 1 Button
-INFO  [2019-08-07T20:50:29,074][main] [:] Clicking Check Bits 1 Button
-INFO  [2019-08-07T20:50:33,181][main] [:] Clicking Nothing to declare Button
-INFO  [2019-08-07T20:50:33,287][main] [:] Clicking Submit Button
-INFO  [2019-08-07T20:50:39,326][main] [:] Printing file reference number BSLU216539
-INFO  [2019-08-07T20:50:39,337][main] [:] Closing the browser
-INFO  [2019-08-07T21:05:10,688][main] [:] I navigate to easyJet URL and accept the cookies
-INFO  [2019-08-07T21:05:10,737][main] [:] Navigating to the URL :https://mybag-qa.aero/baggage/#/easyjet/en-gb/main-menu
-INFO  [2019-08-07T21:05:13,804][main] [:] Clicking Got IT continue
-INFO  [2019-08-07T21:05:13,844][main] [:] Clicking On Delayed Bag Image
-INFO  [2019-08-07T21:05:14,474][main] [:] Clicking On Continue Button
-INFO  [2019-08-07T21:05:15,348][main] [:] Navigating to the flight page
-INFO  [2019-08-07T21:05:23,990][main] [:] Click Continue button
-INFO  [2019-08-07T21:05:28,052][main] [:] Navigating to the baggage details page
-INFO  [2019-08-07T21:05:28,053][main] [:] Clicking the bag information on the bag details page
-INFO  [2019-08-07T21:05:44,933][main] [:] Click Continue Bag Button
-INFO  [2019-08-07T21:05:49,038][main] [:] Entering passenger details information
-INFO  [2019-08-07T21:05:49,423][main] [:] Click Home Address Link
-INFO  [2019-08-07T21:05:54,134][main] [:] Entering the home address details in the popup
-INFO  [2019-08-07T21:06:00,486][main] [:] Clicking Check Bits 1 Button
-INFO  [2019-08-07T21:06:00,532][main] [:] Clicking Check Bits 1 Button
-INFO  [2019-08-07T21:06:00,585][main] [:] Clicking Check Bits 1 Button
-INFO  [2019-08-07T21:06:04,686][main] [:] Clicking Nothing to declare Button
-INFO  [2019-08-07T21:06:04,798][main] [:] Clicking Submit Button
-INFO  [2019-08-07T21:06:10,840][main] [:] Printing file reference number BSLU216540
-INFO  [2019-08-07T21:06:10,851][main] [:] Closing the browser
+INFO  [2019-08-08T09:34:06,569][main] [:] I navigate to easyJet URL and accept the cookies
+INFO  [2019-08-08T09:34:06,633][main] [:] Navigating to the URL :https://mybag-qa.aero/baggage/#/easyjet/en-gb/main-menu
+INFO  [2019-08-08T09:34:11,297][main] [:] Clicking Got IT continue
+INFO  [2019-08-08T09:34:11,356][main] [:] Clicking On Delayed Bag Image
+INFO  [2019-08-08T09:34:12,390][main] [:] Clicking On Continue Button
+INFO  [2019-08-08T09:34:13,282][main] [:] Navigating to the flight page
+INFO  [2019-08-08T09:34:32,016][main] [:] Click Continue button
+INFO  [2019-08-08T09:34:36,092][main] [:] Navigating to the baggage details page
+INFO  [2019-08-08T09:34:36,093][main] [:] Clicking the bag information on the bag details page
+INFO  [2019-08-08T09:34:54,532][main] [:] Click Continue Bag Button
+INFO  [2019-08-08T09:34:58,655][main] [:] Entering passenger details information
+INFO  [2019-08-08T09:34:59,090][main] [:] Click Home Address Link
+INFO  [2019-08-08T09:35:05,288][main] [:] Entering the home address details in the popup
+INFO  [2019-08-08T09:35:11,701][main] [:] Clicking Check Bits 1 Button
+INFO  [2019-08-08T09:35:11,750][main] [:] Clicking Check Bits 1 Button
+INFO  [2019-08-08T09:35:11,808][main] [:] Clicking Check Bits 1 Button
+INFO  [2019-08-08T09:35:15,927][main] [:] Clicking Nothing to declare Button
+INFO  [2019-08-08T09:35:16,062][main] [:] Clicking Submit Button
+INFO  [2019-08-08T09:35:22,109][main] [:] Printing file reference number BSLU216548
+INFO  [2019-08-08T09:35:22,120][main] [:] Closing the browser
